@@ -11,7 +11,7 @@
     {
         "name": "About",
         "contexts": ["about.json"],
-        "template": "kelly_template/index.html"
+        "template": "kelly_template/about.html"
 
     }
     ]
