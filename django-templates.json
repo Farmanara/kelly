@@ -7,5 +7,12 @@
             "name": "Home page",
             "contexts": ["context.json"],
             "template": "kelly_template/index.html"
-        }]
+        },
+    {
+        "name": "About",
+        "contexts": ["about.json"],
+        "template": "kelly_template/index.html"
+
+    }
+    ]
 }
