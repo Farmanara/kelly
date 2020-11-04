@@ -5,6 +5,9 @@
     "description":"",
     "keywords":""
     
+},
+"navbar":{
+    "home-active":"active"
 }
 
 }
