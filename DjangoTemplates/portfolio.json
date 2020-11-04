@@ -8,7 +8,7 @@
         
     },
     "navbar":{
-        "portfolio-active":"active"
+        "portfolio_active":"active"
     }
     
     }

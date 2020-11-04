@@ -7,7 +7,7 @@
     
 },
 "navbar":{
-    "home-active":"active"
+    "home_active":"active"
 }
 
 }

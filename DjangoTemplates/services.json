@@ -7,6 +7,6 @@
         
     },
     "navbar":{
-        "services-active":"active"
+        "services_active":"active"
     }
     }

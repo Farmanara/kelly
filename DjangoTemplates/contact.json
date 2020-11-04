@@ -7,7 +7,7 @@
         
     },
     "navbar":{
-        "contact-active":"active"
+        "contact_active":"active"
     }
     
     }

@@ -7,7 +7,7 @@
         
     },
     "navbar":{
-        "resume-active":"active"
+        "resume_active":"active"
     }
     
     }
