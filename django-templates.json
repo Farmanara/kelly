@@ -31,6 +31,12 @@
         "contexts": ["portfolio.json"],
         "template": "kelly_template/portfolio.html"
 
+    },
+    {
+        "name": "Portfolio Details",
+        "contexts": ["portfolio-details.json"],
+        "template": "kelly_template/portfolio.html"
+
     }
     ]
 }
