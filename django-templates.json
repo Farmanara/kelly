@@ -13,6 +13,24 @@
         "contexts": ["about.json"],
         "template": "kelly_template/about.html"
 
+    },
+    {
+        "name": "Resume",
+        "contexts": ["resume.json"],
+        "template": "kelly_template/resume.html"
+
+    },
+    {
+        "name": "Services",
+        "contexts": ["services.json"],
+        "template": "kelly_template/services.html"
+
+    },
+    {
+        "name": "Portfolio",
+        "contexts": ["portfolio.json"],
+        "template": "kelly_template/portfolio.html"
+
     }
     ]
 }
