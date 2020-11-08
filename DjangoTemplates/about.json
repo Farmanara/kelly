@@ -9,21 +9,54 @@
     "about_active": "active"
   },
 
-  "section_title": {
-    "title": "About",
-    "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
-    "job_title": "Illustrator & UI/UX Designer",
-    "job_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  "about": {
+    "section_title": {
+      "title": "About",
+      "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+      "job_title": "Illustrator & UI/UX Designer",
+      "job_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "personal_info": {
+      "birthday": "1 May 1995",
+      "website": "www.example.com",
+      "phone": "+123 456 790",
+      "city": "City : New York, USA",
+      "age": "30",
+      "degree": "Master",
+      "email": "email@example.com",
+      "freelance": "Available",
+      "info_description": "Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores."
+    }
   },
-  "personal_info": {
-    "birthday": "1 May 1995",
-    "website": "www.example.com",
-    "phone": "+123 456 790",
-    "city": "City : New York, USA",
-    "age": "30",
-    "degree": "Master",
-    "email": "email@example.com",
-    "freelance": "Available",
-    "info_description": "Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores."
+  "skills": {
+    "title": "Skills",
+    "text": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+    "progress-bar": [
+      {
+        "skill": "CSS",
+        "percentage": "90%",
+        "now": "90"
+      },
+      {
+        "skill": "JavasScript",
+        "percentage": "75%",
+        "now": "75"
+      },
+      {
+        "skill": "PHP",
+        "percentage": "80%",
+        "now": "80"
+      },
+      {
+        "skill": "WordPress/CMS",
+        "percentage": "90%",
+        "now": "90"
+      },
+      {
+        "skill": "Photoshop",
+        "percentage": "55%",
+        "now": "55"
+      }
+    ]
   }
 }
