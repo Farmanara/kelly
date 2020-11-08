@@ -84,10 +84,9 @@
         <h2>{{skills.title}}</h2>
         <p>{{skills.text}}</p>
       </div>
+      {%for bar in skills.progress_bar%}
 
       <div class="row skills-content">
-        {%for bar in skills.progress_bar%}
-
         <div class="col-lg-6">
           <div class="progress">
             <span class="skill">
@@ -104,8 +103,8 @@
             </div>
           </div>
         </div>
-        {%endfor%}
       </div>
+      {%endfor%}
     </div>
   </section>
   <!-- End Skills Section -->
