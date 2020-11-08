@@ -168,12 +168,14 @@
           </div>
           {%for bar in skills.progress_bar%}
           <div class="progress">
-            <span class="skill">Photoshop <i class="val">55%</i></span>
+            <span class="skill"
+              >{{bar.skill}} <i class="val">{{bar.percentage}}</i></span
+            >
             <div class="progress-bar-wrap">
               <div
                 class="progress-bar"
                 role="progressbar"
-                aria-valuenow="55"
+                aria-valuenow="{{bar.now}}"
                 aria-valuemin="0"
                 aria-valuemax="100"
               ></div>
