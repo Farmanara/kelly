@@ -1,13 +1,11 @@
 {
-    "meta": {
-        "header_title":"Contact - Kelly Bootstrap Template",
-        "header_icon":"kelly_template/assets/img/favicon.png",
-        "description":"",
-        "keywords":""
-        
-    },
-    "navbar":{
-        "contact_active":"active"
-    }
-    
-    }
+  "meta": {
+    "header_title": "Contact - Kelly Bootstrap Template",
+    "header_icon": "kelly_template/assets/img/favicon.png",
+    "description": "",
+    "keywords": ""
+  },
+  "navbar": {
+    "contact_active": "active"
+  }
+}

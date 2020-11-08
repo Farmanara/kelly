@@ -1,9 +1,8 @@
 {
-    "meta": {
-        "header_title":"Portfolio Details - Kelly Bootstrap Template",
-        "header_icon":"kelly_template/assets/img/favicon.png",
-        "description":"",
-        "keywords":""
-        
-    }
-    }
+  "meta": {
+    "header_title": "Portfolio Details - Kelly Bootstrap Template",
+    "header_icon": "kelly_template/assets/img/favicon.png",
+    "description": "",
+    "keywords": ""
+  }
+}
