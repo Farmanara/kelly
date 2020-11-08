@@ -86,8 +86,9 @@
       </div>
 
       <div class="row skills-content">
+        {%for bar in skills.progress_bar%}
+
         <div class="col-lg-6">
-          {%for bar in skills.progress_bar%}
           <div class="progress">
             <span class="skill">
               {{bar.skill}} <i class="val">{{bar.percentage}}</i></span
