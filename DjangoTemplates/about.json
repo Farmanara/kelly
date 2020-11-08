@@ -31,7 +31,7 @@
   "skills": {
     "title": "Skills",
     "text": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
-    "progress_bar": [
+    "progress_bar_left": [
       {
         "skill": "HTML",
         "percentage": "100%",
@@ -47,7 +47,9 @@
         "skill": "JavasScript",
         "percentage": "75%",
         "now": "75"
-      },
+      }
+    ],
+    "progress_bar_right": [
       {
         "skill": "PHP",
         "percentage": "80%",
