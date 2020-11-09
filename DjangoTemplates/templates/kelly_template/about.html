@@ -31,42 +31,22 @@
           <div class="row">
             <div class="col-lg-6">
               <ul>
+                {%for item in about.personal_info_left %}
                 <li>
                   <i class="icofont-rounded-right"></i>
-                  <strong>Birthday:</strong> {{about.personal_info.birthday}}
+                  <strong>{{item.name}}:</strong> {{item.value}}
                 </li>
-                <li>
-                  <i class="icofont-rounded-right"></i>
-                  <strong>Website:</strong> {{about.personal_info.website}}
-                </li>
-                <li>
-                  <i class="icofont-rounded-right"></i>
-                  <strong>Phone:</strong> {{about.personal_info.phone}}
-                </li>
-                <li>
-                  <i class="icofont-rounded-right"></i>
-                  <strong>City:</strong> {{about.personal_info.city}}
-                </li>
+                {%endfor%}
               </ul>
             </div>
             <div class="col-lg-6">
               <ul>
+                {%for item in about.personal_info_right %}
                 <li>
                   <i class="icofont-rounded-right"></i>
-                  <strong>Age:</strong> {{about.personal_info.age}}
+                  <strong>{{item.name}}</strong> {{item.value}}
                 </li>
-                <li>
-                  <i class="icofont-rounded-right"></i>
-                  <strong>Degree:</strong> {{about.personal_info.degree}}
-                </li>
-                <li>
-                  <i class="icofont-rounded-right"></i>
-                  <strong>Email:</strong> {{about.personal_info.email}}
-                </li>
-                <li>
-                  <i class="icofont-rounded-right"></i>
-                  <strong>Freelance:</strong> {{about.personal_info.freelance}}
-                </li>
+                {%endfor%}
               </ul>
             </div>
           </div>

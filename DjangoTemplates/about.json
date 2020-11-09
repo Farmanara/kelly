@@ -16,17 +16,43 @@
       "job_title": "Illustrator & UI/UX Designer",
       "job_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
-    "personal_info": {
-      "birthday": "1 May 1995",
-      "website": "www.example.com",
-      "phone": "+123 456 790",
-      "city": "City : New York, USA",
-      "age": "30",
-      "degree": "Master",
-      "email": "email@example.com",
-      "freelance": "Available",
-      "info_description": "Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores."
-    }
+    "personal_info_left": [
+      {
+        "name": "Birthday:",
+        "value": "1 May 1995"
+      },
+      {
+        "name": "Website:",
+        "value": "www.example.com"
+      },
+      {
+        "name": "Phone:",
+        "value": "+123 456 790"
+      },
+      {
+        "name": "City:",
+        "value": "New York, USA"
+      }
+    ],
+    "personal_info_right": [
+      {
+        "name": "Age:",
+        "value": "30"
+      },
+      {
+        "name": "Degree",
+        "value": "Master"
+      },
+      {
+        "name": "Email:",
+        "value": "email@example.com"
+      },
+      {
+        "name": "Freelance:",
+        "value": "Available"
+      }
+    ],
+    "info_description": "Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores."
   },
   "skills": {
     "title": "Skills",
