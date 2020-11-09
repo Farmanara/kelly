@@ -88,5 +88,43 @@
         "number": "15"
       }
     ]
+  },
+  "testimonials":{
+    "title":"Testimonials",
+    "text":"Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+    "testimonial_items":[
+      {
+        "img_src":"{%static 'kelly_template/assets/img/testimonials/testimonials-1.jpg'%}",
+        "author":"Saul Goodman",
+        "author_title":"Ceo and Founder",
+        "testimonial_text":"Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper."
+      },
+      {
+        "img_src":"{%static 'kelly_template/assets/img/testimonials/testimonials-2.jpg'%}",
+        "author":"Sara Wilsson",
+        "author_title":"Designer",
+        "testimonial_text":"Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa."
+      },
+
+      {
+       "img_src":"{%static 'kelly_template/assets/img/testimonials/testimonials-5.jpg'%}",
+        "author":"Jena Karlis",
+        "author_title":"Store Owner",
+        "testimonial_text":"Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim."
+      },
+      {
+        "img_src":"{%static 'kelly_template/assets/img/testimonials/testimonials-4.jpg'%}",
+        "author":"Matt Brandon",
+        "author_title":"Freelancer",
+        "testimonial_text":"Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam."
+      },
+      {
+        "img_src":"{%static 'kelly_template/assets/img/testimonials/testimonials-5.jpg'%}",
+        "author":"John Larson",
+        "author_title":"Entrepreneur",
+        "testimonial_text":"Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid."
+      },=
+      
+    ]
   }
 }
