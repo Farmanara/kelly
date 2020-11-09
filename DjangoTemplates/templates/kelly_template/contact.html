@@ -22,10 +22,12 @@
         <div class="col-lg-4">
           <div class="info">
             {%for info in contact_info%}
-            <div class="{{info.info_name}}">
-              <i class="{{info.i_class}}"></i>
-              <h4>{{info.info_name}}</h4>
-              <p>{{info.info_data}}</p>
+            <div>
+              <div class="{{info.info_name}}">
+                <i class="{{info.i_class}}"></i>
+                <h4>{{info.info_name}}</h4>
+                <p>{{info.info_data}}</p>
+              </div>
             </div>
             {%endfor%}
           </div>
