@@ -17,7 +17,7 @@
 
   "cards": {
     "filter_type": "filter-app",
-    "img_src": "kelly_template/assets/img/portfolio/portfolio-1.jpg",
+    "img_src": "{%static 'kelly_template/assets/img/portfolio/portfolio-1.jpg'%}",
     "title": "App 1",
     "description": "App"
   }
