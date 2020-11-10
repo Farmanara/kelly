@@ -15,10 +15,60 @@
     }
   },
 
-  "cards": {
-    "filter_type": "filter-app",
-    "img_src": "kelly_template/assets/img/portfolio/portfolio-1.jpg",
-    "title": "App 1",
-    "description": "App"
-  }
+  "cards": [
+    {
+      "filter_type": "filter-app",
+      "img_src": "kelly_template/assets/img/portfolio/portfolio-1.jpg",
+      "title": "App 1",
+      "description": "App"
+    },
+    {
+      "filter_type": "filter-web",
+      "img_src": "kelly_template/assets/img/portfolio/portfolio-2.jpg",
+      "title": "Web 3",
+      "description": "Web"
+    },
+    {
+      "filter_type": "filter-app",
+      "img_src": "kelly_template/assets/img/portfolio/portfolio-3.jpg",
+      "title": "App 2",
+      "description": "App"
+    },
+    {
+      "filter_type": "filter-card",
+      "img_src": "kelly_template/assets/img/portfolio/portfolio-4.jpg",
+      "title": "Card 2",
+      "description": "Card"
+    },
+    {
+      "filter_type": "filter-web",
+      "img_src": "kelly_template/assets/img/portfolio/portfolio-5.jpg",
+      "title": "Web 2",
+      "description": "Web"
+    },
+    {
+      "filter_type": "filter-app",
+      "img_src": "kelly_template/assets/img/portfolio/portfolio-6.jpg",
+      "title": "App 3",
+      "description": "App"
+    },
+    {
+      "filter_type": "filter-card",
+      "img_src": "kelly_template/assets/img/portfolio/portfolio-7.jpg",
+      "title": "Card 1",
+      "description": "Card"
+    },
+    {
+      "filter_type": "filter-card",
+      "img_src": "kelly_template/assets/img/portfolio/portfolio-8.jpg",
+      "title": "Card 3",
+      "description": "Card"
+    },
+    {
+      "filter_type": "filter-web",
+      "img_src": "kelly_template/assets/img/portfolio/portfolio-9.jpg",
+      "title": "Web 3",
+      "description": "Web"
+    }
+  ]
 }
