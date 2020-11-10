@@ -1,42 +1,37 @@
 {
-    "static_paths": [ "DjangoTemplates/static"],
-    "template_paths": ["DjangoTemplates/templates"],
-    "contexts_path": "DjangoTemplates",
-    "pages": [
-{
-            "name": "Home page",
-            "contexts": ["context.json"],
-            "template": "kelly_template/index.html"
-        },
+  "static_paths": ["DjangoTemplates/static"],
+  "template_paths": ["DjangoTemplates/templates"],
+  "contexts_path": "DjangoTemplates",
+  "pages": [
     {
-        "name": "About",
-        "contexts": ["about.json"],
-        "template": "kelly_template/about.html"
-
+      "name": "Home page",
+      "contexts": ["context.json"],
+      "template": "kelly_template/index.html"
     },
     {
-        "name": "Resume",
-        "contexts": ["resume.json"],
-        "template": "kelly_template/resume.html"
-
+      "name": "About",
+      "contexts": ["about.json"],
+      "template": "kelly_template/about.html"
     },
     {
-        "name": "Services",
-        "contexts": ["services.json"],
-        "template": "kelly_template/services.html"
-
+      "name": "Resume",
+      "contexts": ["resume.json"],
+      "template": "kelly_template/resume.html"
     },
     {
-        "name": "Portfolio",
-        "contexts": ["portfolio.json"],
-        "template": "kelly_template/portfolio.html"
-
+      "name": "Services",
+      "contexts": ["services.json"],
+      "template": "kelly_template/services.html"
     },
     {
-        "name": "Portfolio Details",
-        "contexts": ["portfolio-details.json"],
-        "template": "kelly_template/portfolio.html"
-
+      "name": "Portfolio",
+      "contexts": ["portfolio.json"],
+      "template": "kelly_template/portfolio.html"
+    },
+    {
+      "name": "Portfolio Details",
+      "contexts": ["portfolio-details.json"],
+      "template": "kelly_template/portfolio-details.html"
     }
-    ]
+  ]
 }
