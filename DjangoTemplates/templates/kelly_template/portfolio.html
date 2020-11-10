@@ -24,19 +24,18 @@
         data-aos="fade-up"
         data-aos-delay="200"
       >
-        {%for card in cards%}
         <div class="col-lg-4 col-md-6 portfolio-item {{card.filter_type}}">
           <div class="portfolio-wrap">
-            <img src="{{card.img_src}}" class="img-fluid" alt="" />
+            <img src="{{cards.img_src}}" class="img-fluid" alt="" />
             <div class="portfolio-info">
-              <h4>{{card.title}}</h4>
-              <p>{{card.description}}</p>
+              <h4>{{cards.title}}</h4>
+              <p>{{cards.description}}</p>
               <div class="portfolio-links">
                 <a
-                  href="{{card.img_src}}"
+                  href="{{cards.img_src}}"
                   data-gall="portfolioGallery"
                   class="venobox"
-                  title="{{card.title}}"
+                  title="{{cards.title}}"
                 >
                   <i class="bx bx-plus"></i>
                 </a>
@@ -52,7 +51,7 @@
             </div>
           </div>
         </div>
-        {%endfor%}
+
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <img
