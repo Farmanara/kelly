@@ -13,13 +13,12 @@
       "title": "Portfolio",
       "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
     },
-    "cards":[
+    "cards": [
       {
-        "filter_type":"filter-app",
-        "img_src":"{%static 'kelly_template/assets/img/portfolio/portfolio-1.jpg'%}",
-        "title":"App 1",
-        "description":"App",
-        ""
+        "filter_type": "filter-app",
+        "img_src": "{%static 'kelly_template/assets/img/portfolio/portfolio-1.jpg'%}",
+        "title": "App 1",
+        "description": "App"
       }
     ]
   }
