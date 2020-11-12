@@ -14,7 +14,7 @@
       "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
     },
 
-    "resume_titles": [
+    "resume_titles_left": [
       {
         "file": "kelly_template/resume_sections/summary.html",
         "title": "Summary",
@@ -48,6 +48,52 @@
             "subHeading": "2010 - 2014",
             "tagline": "Rochester Institute of Technology, Rochester, NY",
             "tagline1": "Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila"
+          }
+        ]
+      }
+    ],
+    "resume_titles_right": [
+      {
+        "file": "kelly_template/resume_sections/professionalExperience.html",
+        "title": "Professional Experience",
+        "content": [
+          {
+            "heading": "Senior graphic design specialist",
+            "subHeading": "2019 - Present",
+            "tagline": "Experion, New York, NY",
+            "list": [
+              {
+                "list_item": "Lead in the design, development, and implementation of the graphic, layout, and production communication materials"
+              },
+              {
+                "list_item": "Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project."
+              },
+              {
+                "list_item": "Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design"
+              },
+              {
+                "list_item": "Oversee the efficient use of production project budgets ranging from $2,000 - $25,000"
+              }
+            ]
+          },
+          {
+            "heading": "Graphic design specialist",
+            "subHeading": "2017 - 2018",
+            "tagline": "Stepping Stone Advertising, New York, NY",
+            "list": [
+              {
+                "list_item": "Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements)."
+              },
+              {
+                "list_item": "Managed up to 5 projects or tasks at a given time while under pressure"
+              },
+              {
+                "list_item": "Recommended and consulted with clients on the most appropriate graphic design"
+              },
+              {
+                "list_item": "Created 4+ design presentations and proposals a month for clients and account managers"
+              }
+            ]
           }
         ]
       }
