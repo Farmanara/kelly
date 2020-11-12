@@ -32,6 +32,18 @@
             "list_item": "alice.barkley@example.com"
           }
         ]
+      },
+      {
+        "file": "kelly_template/resume_sections/education.html",
+        "title": "Education",
+        "content": [
+          {
+            "heading": "Master of Fine Arts & Graphic Design",
+            "subHeading": "2015 - 2016",
+            "tagline": "<em>Rochester Institute of Technology, Rochester, NY</em>",
+            "tagline1": "Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend"
+          }
+        ]
       }
     ]
   }

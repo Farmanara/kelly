@@ -1,0 +1,9 @@
+<h3 class="resume-title">{{item.title}}</h3>
+{% for item in item.content %}
+<div class="resume-item">
+  <h4>{{item.heading}}</h4>
+  <h5>{{item.subHeading}}</h5>
+  <p>{{item.tagline}}</p>
+  <p>{{item.tagline1}}</p>
+</div>
+{% endfor %}
