@@ -1,10 +1,10 @@
 
 <h3 class="resume-title">{{item.title}}</h3>
-{%for info in  item.content%}
+{%for data in  item.content%}
               <div class="resume-item">
-                <h4>{{item.heading}}</h4>
-                <h5>{{item.subHeading}}</h5>
-                <p><em>{{item.tagline}}</em></p>
+                <h4>{{data.heading}}</h4>
+                <h5>{{data.subHeading}}</h5>
+                <p><em>{{data.tagline}}</em></p>
                 <p>
                 <ul>
                   {%for li in item.content.list%}
