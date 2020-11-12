@@ -1,0 +1,11 @@
+<h3 class="resume-title">{{title.title}}</h3>
+<div class={{title.item_class}}>
+  <h4>{{heading}}</h4>
+  <p><em>{{resume_titles.tagline}}</em></p>
+  <p>
+  <ul>
+  {%for li in resume_titles.list%}
+    <li>{{li.list_item}}</li>
+  </ul>
+  </p>
+</div>

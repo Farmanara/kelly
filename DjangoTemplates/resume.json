@@ -7,5 +7,35 @@
   },
   "navbar": {
     "resume_active": "active"
+  },
+  "resume": {
+    "section_title": {
+      "title": "Resume",
+      "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+    },
+
+    "resume_titles": [
+      {
+        "file": "kelly_template/resume_sections/summary.html",
+        "title": "Summary",
+        "item_class": "resume-item pb-0",
+        "heading": "Alice Barkley",
+        "tagline": "Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.",
+        "list": [
+          {
+            "list_item": "Portland par 127,Orlando, FL"
+          },
+          {
+            "list_item": "(123) 456-7891"
+          },
+          {
+            "list_item": "alice.barkley@example.com"
+          }
+        ]
+      },
+      {
+        "title": "Education"
+      }
+    ]
   }
 }
