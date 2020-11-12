@@ -18,7 +18,7 @@
       {
         "file": "kelly_template/resume_sections/summary.html",
         "title": "Summary",
-        "item_class": "pb-0 resume-item",
+        "item_class": "resume-item pb-0",
         "heading": "Alice Barkley",
         "tagline": "Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.",
         "list": [
